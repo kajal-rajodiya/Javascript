@@ -12,4 +12,4 @@ const obj2={
     lastname:'chandre',
     age:27
 }
-console.log(ObjectMerge(obj1,obj2));
+console.log(ObjectMerge(obj2));
